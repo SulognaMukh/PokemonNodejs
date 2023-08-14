@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "axios": "^1.4.0",
+    "express": "^4.18.2",
+    "npm-build": "0.0.1"
+  },
+  "scripts": {
+    "start": "server.js"
+  },
+  "name": "pokemon",
+  "description": "Ash Ketchum caught some Pokémon and wants to find the evolution chain, but he can’t find\r it in his Pokedex.\r Ash wants to start training with those Pokémon and he is asking for some help to find the\r evolution chain and the variations on which they evolve using the Poke API, whose\r documentation can be found here https://pokeapi.co/docs/v2",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SulognaMukh/Pokemon.git"
+  },
+  "author": "Sulogna Mukherjee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SulognaMukh/Pokemon/issues"
+  },
+  "homepage": "https://github.com/SulognaMukh/Pokemon#readme"
+}
